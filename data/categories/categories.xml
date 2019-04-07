@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+    <item>
+        <id>1</id>
+        <name>Dell</name>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Asus</name>
+    </item>
+    <item>
+        <id>3</id>
+        <name>HP</name>
+    </item>
+    <item>
+        <id>4</id>
+        <name>Acer</name>
+    </item>
+</categories>

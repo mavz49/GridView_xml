@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+    <item>
+        <id>1</id>
+        <categoryId>1</categoryId>
+        <price>100</price>
+        <hidden>1</hidden>
+    </item>
+    <item>
+        <id>2</id>
+        <categoryId>2</categoryId>
+        <price>200</price>
+        <hidden>1</hidden>
+    </item>
+    <item>
+        <id>3</id>
+        <categoryId>1</categoryId>
+        <price>300</price>
+        <hidden>0</hidden>
+    </item>
+    <item>
+        <id>4</id>
+        <categoryId>3</categoryId>
+        <price>400</price>
+        <hidden>0</hidden>
+    </item>
+    <item>
+        <id>5</id>
+        <categoryId>1</categoryId>
+        <price>500</price>
+        <hidden>0</hidden>
+    </item>
+    <item>
+        <id>6</id>
+        <categoryId>3</categoryId>
+        <price>600</price>
+        <hidden>1</hidden>
+    </item>
+    <item>
+        <id>7</id>
+        <categoryId>1</categoryId>
+        <price>700</price>
+        <hidden>1</hidden>
+    </item>
+</products>
